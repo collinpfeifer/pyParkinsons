@@ -1,1 +1,1 @@
-# pythonParkinsons
+# pyParkinsons
